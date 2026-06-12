@@ -173,7 +173,7 @@ Explainable AI (SHAP)
 
 ### Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suryansh-agrawal-734648239/)
 * 🐙 GitHub: https://github.com/your-profile
 * 📧 Email: [your-email@example.com](mailto:saa03112002@gmail.com)
 
